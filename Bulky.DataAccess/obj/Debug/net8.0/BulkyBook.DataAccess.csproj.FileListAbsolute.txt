@@ -1,0 +1,6 @@
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Full_Real_Project\MVC_Core\Bulky\Bulky.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.sourcelink.json
