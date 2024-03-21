@@ -1,0 +1,14 @@
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\bin\Debug\net8.0\AppStoreUtility.deps.json
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\bin\Debug\net8.0\AppStoreUtility.runtimeconfig.json
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\bin\Debug\net8.0\AppStoreUtility.dll
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\bin\Debug\net8.0\AppStoreUtility.pdb
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.csproj.AssemblyReference.cache
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.AssemblyInfoInputs.cache
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.AssemblyInfo.cs
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.csproj.CoreCompileInputs.cache
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.dll
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\refint\AppStoreUtility.dll
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.pdb
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\AppStoreUtility.genruntimeconfig.cache
+F:\Full_Real_Project\MVC_Core\ProjectStore\Famms\AppStoreUtility\obj\Debug\net8.0\ref\AppStoreUtility.dll
